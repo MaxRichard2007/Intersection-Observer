@@ -1,0 +1,21 @@
+#container {
+    min-height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#outer {
+    width: 400px;
+    height: 400px;
+    background-color: lightcoral;
+    margin: 1500px auto;
+    overflow: auto;
+}
+
+#inner {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    margin: 600px auto;
+}
