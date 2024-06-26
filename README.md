@@ -4,8 +4,7 @@
 
 You can use the link below to open the site 👇👇
 
-[SASS Website](https://sasswebsitemax.netlify.app/)
-[Intersection Observer]([https://intersection0bserver.netlify.app/)
+[Intersection Observer](https://intersection0bserver.netlify.app/)
 
 This site is powered by JavaScript and uses Intersection-Observer
 
